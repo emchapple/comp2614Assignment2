@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Comp2614Assignment2/Program.cs">
+    <Files>
+      <File FileName="Comp2614Assignment2/Invoice.cs" Line="1" Column="1" />
+      <File FileName="Comp2614Assignment2/InvoiceDetailLine.cs" Line="5" Column="48" />
+      <File FileName="Comp2614Assignment2/Program.cs" Line="52" Column="1" />
+      <File FileName="Comp2614Assignment2/Assign2Tests.cs" Line="45" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/erin/Documents/Programming/COMP 2614/Repos/Comp2614Assignment2/Comp2614Assignment2/Program.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
